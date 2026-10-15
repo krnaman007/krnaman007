@@ -1,119 +1,72 @@
-# 👋 Hey, I'm Naman Verma
+# Hey, I'm Naman 👋
 
-### `Building ideas into reality, one commit at a time.`
+### `Developer. Builder. Perpetual learner.`
 
-I'm an MCA graduate passionate about full-stack development, clean UI, and building practical web applications. I enjoy exploring new technologies, experimenting with ideas, and continuously improving my craft.
+I like turning ideas into things people can actually use.
 
-```bash
-┌──(naman㉿github)-[~]
-└─$ whoami
+I'm an MCA graduate exploring full-stack development, building web applications, experimenting with UI, and getting better at solving problems one project at a time.
 
-    Developer in progress.
-    Curious mind. Builder's mindset.
-    Always learning. Always improving.
+```text
+naman@github:~$ whoami
+
+  Full-stack developer in the making
+  Interested in clean UI & practical applications
+  Learning by building, breaking, and rebuilding
 ```
 
 ---
 
-## ⚡ Tech Stack
+### `01 / What I work with`
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+**Frontend**
+- JavaScript · TypeScript · React
+- Tailwind CSS
 
----
+**Backend & databases**
+- Node.js · Express.js
+- MongoDB · REST APIs
 
-## 🚀 Featured Projects
-
-### 🎨 [Artysly](YOUR_ARTYSLY_REPOSITORY_URL)
-
-**Art supplies e-commerce platform**
-
-A MERN-stack project focused on product discovery, filtering, authentication, and admin-side product management.
-
-`React` · `Node.js` · `Express.js` · `MongoDB`
-
-### 🤖 [AI Site Generator](YOUR_AI_SITE_GENERATOR_REPOSITORY_URL)
-
-**From prompts to website creation**
-
-A full-stack project exploring AI-assisted website generation, project previews, saving, publishing, and downloading.
-
-`React` · `TypeScript` · `Tailwind CSS` · `PostgreSQL`
-
-### 🌐 [EyeFem](YOUR_EYEFEM_REPOSITORY_URL)
-
-**Website functionality and administration**
-
-Worked on practical website features, including contact flows, WhatsApp integration, and administrative access.
-
-`Web Development` · `UI/UX` · `Admin Features`
+**Currently focused on**
+- Strengthening JavaScript and full-stack fundamentals
+- Building better, more responsive user interfaces
+- Writing cleaner, more maintainable code
 
 ---
 
-## 🧠 What I'm Working On
+### `02 / Things I've built`
 
-- Strengthening my JavaScript and full-stack development fundamentals.
-- Building responsive interfaces with React and Tailwind CSS.
-- Improving my backend development and database skills.
-- Practising data structures, algorithms, and problem-solving.
-- Turning project ideas into useful, maintainable applications.
+**Artysly** — Art supplies e-commerce  
+A MERN-based shopping experience with product discovery, filtering, authentication, and admin-side product management.
 
----
+**AI Site Generator** — From prompts to web pages  
+A full-stack project exploring AI-assisted website generation, project management, previewing, and publishing.
 
-## 🎮 Beyond the Code
+**EyeFem** — Website features and administration  
+Worked on practical website functionality, including contact flows and administrative access.
 
-- 🏎️ Cars, automotive design, and Hot Wheels collecting.
-- 🎮 Gaming and creative digital projects.
-- 🎨 UI design, visual aesthetics, and experimentation.
-- 🌱 Learning something new and getting a little better every day.
+> Good projects aren't just about making things work. They're about understanding why they work.
 
 ---
 
-## 📊 My GitHub Journey
+### `03 / A little beyond the code`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=krnaman007&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krnaman007&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="GitHub profile views" />
-</p>
+- 🎨 I enjoy clean interfaces and thoughtful design.
+- 🚀 I like turning ideas into working projects.
+- 🧩 I enjoy learning by solving problems.
+- 🏎️ Into cars, gaming, and collecting Hot Wheels.
+- 🌱 Always working on becoming a better developer.
 
 ---
 
-## 🤝 Let's Connect
+### `04 / Let's connect`
 
-I'm open to connecting with developers, collaborating on interesting projects, and exploring entry-level software development opportunities.
+I'm open to connecting with developers, learning from others, and exploring entry-level software development opportunities.
 
-<p>
-  <a href="https://github.com/krnaman007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[GitHub](https://github.com/krnaman007) · [LinkedIn](YOUR_LINKEDIN_URL)
 
 ---
 
-```javascript
-while (alive) {
-    learn();
-    build();
-    improve();
-}
-```
-
-<p align="center">
-  <sub>Designed with curiosity. Built with code. Powered by consistency.</sub>
-</p>
+<sub>Built with curiosity, caffeine-free determination, and a lot of commits.</sub>
 
 <!--
 **krnaman007/krnaman007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
