@@ -1,130 +1,83 @@
 <!--
-  OPTION 1: CINEMATIC DARK
+  OPTION 2: MINIMAL PROFESSIONAL
   Replace YOUR_BANNER_URL and YOUR_LINKEDIN_URL.
 -->
 
 <p align="center">
-  <img src="YOUR_BANNER_URL" alt="Naman Verma — NAMAN.EXE" width="100%" />
+  <img src="YOUR_BANNER_URL" alt="Naman Verma — Software Developer" width="100%" />
 </p>
 
-<h1 align="center">Naman Verma</h1>
+# Naman Verma
 
-<p align="center">
-  <code>DEVELOPER</code> &nbsp; / &nbsp; <code>BUILDER</code> &nbsp; / &nbsp; <code>LIFELONG LEARNER</code>
-</p>
+**MCA Graduate · Aspiring Software Developer**
 
-<p align="center">
-  <b>Turning ideas into useful digital experiences.</b>
-</p>
+I build web applications with a focus on practical functionality, responsive interfaces, and continuous improvement.
 
-<p align="center">
-  MCA Graduate · Full-Stack Development · UI Enthusiast
-</p>
+[GitHub](https://github.com/krnaman007) · [LinkedIn](YOUR_LINKEDIN_URL)
 
 ---
 
-### `whoami` — A little about me
+## About
 
-Hey! I'm Naman, an MCA graduate interested in building practical web applications and clean, responsive user interfaces.
+I'm an MCA graduate interested in full-stack web development. Through academic and personal projects, I've explored frontend development, backend functionality, databases, and user-focused application design.
 
-I enjoy exploring technologies, working on real-world projects, and improving my development skills through hands-on learning.
+I'm currently strengthening my fundamentals and looking for opportunities to learn, contribute, and grow as a developer.
 
-```bash
-naman@github:~$ whoami
+## Technical Skills
 
-> Curious mind
-> Builder's mindset
-> Learning by doing
-> Always improving
-```
+| Area | Technologies |
+|---|---|
+| Frontend | JavaScript, TypeScript, React |
+| Styling | Tailwind CSS |
+| Backend | Node.js, Express.js, REST APIs |
+| Databases | MongoDB, PostgreSQL |
+| Tools | Git, GitHub |
 
-### `01 / TECH STACK`
+## Selected Projects
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+### Artysly — E-Commerce Application
+
+A MERN-stack art supplies store with product discovery, filtering, authentication, and admin-side product management.
+
+**Stack:** React, Node.js, Express.js, MongoDB
+
+[Source Code](YOUR_ARTYSLY_REPO_URL) · [Live Demo](YOUR_ARTYSLY_DEMO_URL)
+
+### AI Site Generator — AI-Assisted Website Creation
+
+A full-stack application concept for generating websites from prompts, with project previews, saving, publishing, and downloading.
+
+**Stack:** React, TypeScript, Tailwind CSS, PostgreSQL
+
+[Source Code](YOUR_AI_SITE_GENERATOR_REPO_URL) · [Live Demo](YOUR_AI_SITE_GENERATOR_DEMO_URL)
+
+### EyeFem — Website Enhancements
+
+Website functionality involving contact flows, WhatsApp integration, and administrative access.
+
+[Source Code](YOUR_EYEFEM_REPO_URL) · [Live Demo](YOUR_EYEFEM_DEMO_URL)
+
+## Currently Improving
+
+- JavaScript and TypeScript fundamentals
+- React component design and responsive UI
+- Backend routing, APIs, and database integration
+- Data structures and algorithms
+- Writing readable, maintainable code
+
+## GitHub Activity
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=krnaman007&theme=default&hide_border=true" alt="GitHub activity streak" />
 </p>
 
-### `02 / SELECTED PROJECTS`
+## Outside Development
 
-**🎨 Artysly — Art Supplies E-Commerce**
+Cars and automotive design · Gaming · Hot Wheels collecting · UI/UX inspiration
 
-A MERN-stack e-commerce project featuring product discovery, filtering, authentication, and admin-side product management.
+---
 
-`React` · `Node.js` · `Express.js` · `MongoDB`
-
-[Repository](YOUR_ARTYSLY_REPO_URL) · [Live Demo](YOUR_ARTYSLY_DEMO_URL)
-
-**🤖 AI Site Generator — Websites from Prompts**
-
-A full-stack project exploring AI-assisted website generation, project previews, saving, publishing, and downloading.
-
-`React` · `TypeScript` · `Tailwind CSS` · `PostgreSQL`
-
-[Repository](YOUR_AI_SITE_GENERATOR_REPO_URL) · [Live Demo](YOUR_AI_SITE_GENERATOR_DEMO_URL)
-
-**🌐 EyeFem — Website Features & Administration**
-
-Contributed to website functionality, including WhatsApp contact integration, contact flows, and administrative access.
-
-[Repository](YOUR_EYEFEM_REPO_URL) · [Live Demo](YOUR_EYEFEM_DEMO_URL)
-
-### `03 / CURRENT OBJECTIVES`
-
-- Strengthening JavaScript and full-stack fundamentals.
-- Building responsive interfaces with React and Tailwind CSS.
-- Improving backend development and database skills.
-- Practising data structures, algorithms, and problem-solving.
-- Creating projects that solve practical problems.
-
-### `04 / BEYOND THE TERMINAL`
-
-- 🏎️ Cars, automotive design, and Hot Wheels collecting
-- 🎮 Gaming and creative digital projects
-- 🎨 UI design and visual experimentation
-- 🌱 Continuous learning and personal growth
-
-### `05 / GITHUB ACTIVITY`
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=krnaman007&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krnaman007&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
-### `06 / ESTABLISH CONNECTION`
-
-I'm open to connecting with developers, collaborating on interesting projects, and exploring entry-level software development opportunities.
-
-<p>
-  <a href="https://github.com/krnaman007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-```javascript
-while (alive) {
-  learn();
-  build();
-  improve();
-}
-```
-
-<p align="center">
-  <sub>BUILD &nbsp; • &nbsp; LEARN &nbsp; • &nbsp; GROW &nbsp; • &nbsp; REPEAT</sub>
-</p>
-
+*Interested in entry-level software development opportunities, collaborative projects, and learning from other developers.*
 
 
 <!--
