@@ -1,72 +1,129 @@
-# Hey, I'm Naman 👋
+<!--
+  OPTION 1: CINEMATIC DARK
+  Replace YOUR_BANNER_URL and YOUR_LINKEDIN_URL.
+-->
 
-### `Developer. Builder. Perpetual learner.`
+<p align="center">
+  <img src="YOUR_BANNER_URL" alt="Naman Verma — NAMAN.EXE" width="100%" />
+</p>
 
-I like turning ideas into things people can actually use.
+<h1 align="center">Naman Verma</h1>
 
-I'm an MCA graduate exploring full-stack development, building web applications, experimenting with UI, and getting better at solving problems one project at a time.
+<p align="center">
+  <code>DEVELOPER</code> &nbsp; / &nbsp; <code>BUILDER</code> &nbsp; / &nbsp; <code>LIFELONG LEARNER</code>
+</p>
 
-```text
+<p align="center">
+  <b>Turning ideas into useful digital experiences.</b>
+</p>
+
+<p align="center">
+  MCA Graduate · Full-Stack Development · UI Enthusiast
+</p>
+
+---
+
+### `whoami` — A little about me
+
+Hey! I'm Naman, an MCA graduate interested in building practical web applications and clean, responsive user interfaces.
+
+I enjoy exploring technologies, working on real-world projects, and improving my development skills through hands-on learning.
+
+```bash
 naman@github:~$ whoami
 
-  Full-stack developer in the making
-  Interested in clean UI & practical applications
-  Learning by building, breaking, and rebuilding
+> Curious mind
+> Builder's mindset
+> Learning by doing
+> Always improving
 ```
 
----
+### `01 / TECH STACK`
 
-### `01 / What I work with`
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
-**Frontend**
-- JavaScript · TypeScript · React
-- Tailwind CSS
+### `02 / SELECTED PROJECTS`
 
-**Backend & databases**
-- Node.js · Express.js
-- MongoDB · REST APIs
+**🎨 Artysly — Art Supplies E-Commerce**
 
-**Currently focused on**
-- Strengthening JavaScript and full-stack fundamentals
-- Building better, more responsive user interfaces
-- Writing cleaner, more maintainable code
+A MERN-stack e-commerce project featuring product discovery, filtering, authentication, and admin-side product management.
 
----
+`React` · `Node.js` · `Express.js` · `MongoDB`
 
-### `02 / Things I've built`
+[Repository](YOUR_ARTYSLY_REPO_URL) · [Live Demo](YOUR_ARTYSLY_DEMO_URL)
 
-**Artysly** — Art supplies e-commerce  
-A MERN-based shopping experience with product discovery, filtering, authentication, and admin-side product management.
+**🤖 AI Site Generator — Websites from Prompts**
 
-**AI Site Generator** — From prompts to web pages  
-A full-stack project exploring AI-assisted website generation, project management, previewing, and publishing.
+A full-stack project exploring AI-assisted website generation, project previews, saving, publishing, and downloading.
 
-**EyeFem** — Website features and administration  
-Worked on practical website functionality, including contact flows and administrative access.
+`React` · `TypeScript` · `Tailwind CSS` · `PostgreSQL`
 
-> Good projects aren't just about making things work. They're about understanding why they work.
+[Repository](YOUR_AI_SITE_GENERATOR_REPO_URL) · [Live Demo](YOUR_AI_SITE_GENERATOR_DEMO_URL)
 
----
+**🌐 EyeFem — Website Features & Administration**
 
-### `03 / A little beyond the code`
+Contributed to website functionality, including WhatsApp contact integration, contact flows, and administrative access.
 
-- 🎨 I enjoy clean interfaces and thoughtful design.
-- 🚀 I like turning ideas into working projects.
-- 🧩 I enjoy learning by solving problems.
-- 🏎️ Into cars, gaming, and collecting Hot Wheels.
-- 🌱 Always working on becoming a better developer.
+[Repository](YOUR_EYEFEM_REPO_URL) · [Live Demo](YOUR_EYEFEM_DEMO_URL)
 
----
+### `03 / CURRENT OBJECTIVES`
 
-### `04 / Let's connect`
+- Strengthening JavaScript and full-stack fundamentals.
+- Building responsive interfaces with React and Tailwind CSS.
+- Improving backend development and database skills.
+- Practising data structures, algorithms, and problem-solving.
+- Creating projects that solve practical problems.
 
-I'm open to connecting with developers, learning from others, and exploring entry-level software development opportunities.
+### `04 / BEYOND THE TERMINAL`
 
-[GitHub](https://github.com/krnaman007) · [LinkedIn](YOUR_LINKEDIN_URL)
+- 🏎️ Cars, automotive design, and Hot Wheels collecting
+- 🎮 Gaming and creative digital projects
+- 🎨 UI design and visual experimentation
+- 🌱 Continuous learning and personal growth
 
----
+### `05 / GITHUB ACTIVITY`
 
-<sub>Built with curiosity, caffeine-free determination, and a lot of commits.</sub>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=krnaman007&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krnaman007&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+### `06 / ESTABLISH CONNECTION`
+
+I'm open to connecting with developers, collaborating on interesting projects, and exploring entry-level software development opportunities.
+
+<p>
+  <a href="https://github.com/krnaman007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+```javascript
+while (alive) {
+  learn();
+  build();
+  improve();
+}
+```
+
+<p align="center">
+  <sub>BUILD &nbsp; • &nbsp; LEARN &nbsp; • &nbsp; GROW &nbsp; • &nbsp; REPEAT</sub>
+</p>
 
 
 
