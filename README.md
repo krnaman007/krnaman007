@@ -58,15 +58,15 @@ Worked on practical website functionality, including contact flows and administr
 
 ---
 
-### `04 / Let's connect`
+<!--### `04 / Let's connect`
 
 I'm open to connecting with developers, learning from others, and exploring entry-level software development opportunities.
 
 [GitHub](https://github.com/krnaman007) · [LinkedIn](YOUR_LINKEDIN_URL)
 
----
+--- -->
 
-<sub>Built with curiosity, caffeine-free determination, and a lot of commits.</sub>
+<sub>Built with curiosity <!-- caffeine-free determination,--> and a lot of commits.</sub>
 
 <!--
 **krnaman007/krnaman007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
